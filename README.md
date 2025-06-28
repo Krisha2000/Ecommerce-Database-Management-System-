@@ -80,4 +80,8 @@ An ER diagram (not included here) illustrates the relationships, cardinalities, 
 | Tools Used        | pgAdmin |
 | Operating System  | Cross-platform (Windows, Linux, MacOS) |
 
+## Contributor
 
+[Krisha Sompura](https://github.com/Krisha2000)
+
+[Milan Nagvadia](https://github.com/mpn311) 
