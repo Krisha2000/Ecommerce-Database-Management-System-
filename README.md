@@ -8,14 +8,14 @@ The system is designed to help small businesses transition from offline to onlin
 
 ## Table of Contents
 
-- [Project Overview]
-- [Core Features]
-- [Database Schema]
-- [Technology Stack]
-- [Setup and Execution]
-- [Queries and Procedures]
-- [Advanced Functional Enhancements]
-- [Analytical Queries]
+- Project Overview
+- Core Features
+- Database Schema
+- Technology Stack
+- Setup and Execution
+- Queries and Procedures
+- Advanced Functional Enhancements
+- Analytical Queries
 
 
 ---
